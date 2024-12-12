@@ -9,7 +9,7 @@
         "requirements*.txt": "pip-requirements"
     },
     "yaml.schemas": {
-        "https://raw.githubusercontent.com/Guts/qgis-deployment-cli/main/docs/schemas/scenario/schema.json": [
+        "https://raw.githubusercontent.com/qgis-deployment/qgis-deployment-toolbelt-cli/main/docs/schemas/scenario/schema.json": [
             "**/*scenario*qdt.yml"
         ]
     },
