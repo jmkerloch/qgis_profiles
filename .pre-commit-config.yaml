@@ -50,5 +50,5 @@ repos:
 
 ci:
   autoupdate_schedule: quarterly
-  skip: []
+  skip: [check-jsonschema]
   submodules: false
